@@ -1,4 +1,4 @@
-# Deep-neural-network-from-scratch-to-classify-neumerical-data
+<h1> Deep-neural-network-from-scratch-to-classify-neumerical-data</h1>
 First I created csv files from training and test data and load both data in collaborator for analysis.
 Secondly, I loaded the necessary libraries required to build the neural network in python.
 
