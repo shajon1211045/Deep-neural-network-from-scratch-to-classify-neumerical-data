@@ -12,6 +12,12 @@ I create a class DeepNeuralNetwork with two hidden layers having 9 and 19 neuron
 #Accuracy after training 
 
 The code generates accuracy and loss after each epoch. The final accuracy and cost (loss) for the training data is 82.78% , 0.38 respectively and  83.29%, 0.37 respectively for validation data.
+
+#plotting the data 
+https://user-images.githubusercontent.com/59179489/188814806-b43eb5b5-202d-41d3-b410-058f00e9b1ce.jpg
+https://github.com/shajon1211045/Deep-neural-network-from-scratch-to-classify-neumerical-data/issues/2
+
+The loss and accuracy graph of train and validation are simillar. So, there was no overfitting.
  
 #Validating the network with test data
 
