@@ -5,15 +5,15 @@ Secondly, I loaded the necessary libraries required to build the neural network 
 After loading the data I labeled first 7500 data as 0(for class 1) and the further 7500 as 1(for class 2) according to the instructions given in the training dataset.
 After that I randomized the training dataset and then normalize it for the convenience of training. I split my train data before applying the neural network.
 
-#Creating the neural network class
+<h4>Creating the neural network class</h4>
 
 I create a class DeepNeuralNetwork with two hidden layers having 9 and 19 neurons respectively. I set the number of epochs to 1000 and learning rates to 0.01. I build Relu and Sigmoid function to use as activation function.
 
-#Accuracy after training 
+<h4>Accuracy after training</h4> 
 
 The code generates accuracy and loss after each epoch. The final accuracy and cost (loss) for the training data is 82.78% , 0.38 respectively and  83.29%, 0.37 respectively for validation data.
 
-#plotting the data 
+<h4>plotting the data</h4>
 
 ![accuracy](https://user-images.githubusercontent.com/59179489/188814806-b43eb5b5-202d-41d3-b410-058f00e9b1ce.jpg)
 
@@ -21,6 +21,6 @@ The code generates accuracy and loss after each epoch. The final accuracy and co
 
 The loss and accuracy graph of train and validation are simillar. So, there was no overfitting.
  
-#Validating the network with test data
+<h4>Validating the network with test data</h4>
 
 After applying the trained neural network on the test data the accuracy was 82.9%.
