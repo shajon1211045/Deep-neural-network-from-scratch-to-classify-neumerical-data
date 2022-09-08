@@ -7,7 +7,7 @@ After that I randomized the training dataset and then normalize it for the conve
 
 <h4>Creating the neural network class</h4>
 
-I create a class DeepNeuralNetwork with two hidden layers having 9 and 19 neurons respectively. I set the number of epochs to 1000 and learning rates to 0.01. I build Relu and Sigmoid function to use as activation function.
+I create a class DeepNeuralNetwork with two hidden layers having 9 and 19 neurons respectively. I set the number of epochs to 1000 and learning rate to 0.01. I build Relu and Sigmoid function to use as activation function.
 
 <h4>Accuracy after training</h4> 
 
